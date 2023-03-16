@@ -16,13 +16,13 @@ This is a MySQL database and application backend for an e-commerce site. The tec
 8. Run npm run seed
 9. Run npm start
 
-## Links to YouTube videos:
+## Links to videos:
 
-Schema, seeds and start server: https://youtu.be/3RFZH7vc_ro
-Insomnia:
+1. Generating schema/seeds and start server: https://youtu.be/3RFZH7vc_ro
+2. Insomnia to show GET, POST, PUT and DELETE functionality: https://drive.google.com/file/d/1kJgt3QL_RriIindV-VJi8x8yhk6TDCKY/view
 
 ### Links:
 
-1. YouTube video 1: TO-DO
-2. YouTube video 2: TO-DO
-3. https://github.com/XvrTeo/E-commerce-Back-End
+1. Walkthrough video Part 1: https://youtu.be/3RFZH7vc_ro
+2. Walkthrough video Part 2: https://drive.google.com/file/d/1kJgt3QL_RriIindV-VJi8x8yhk6TDCKY/view
+3. URL of the GitHub repository: https://github.com/XvrTeo/E-commerce-Back-End
